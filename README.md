@@ -29,7 +29,9 @@ Other os
 
 2. Клонируйте репозиторий и перейдите в папку проекта:
 
-`git clone git@github.com:babanlive/Money_Manager.git && cd Money_Manager`
+```shell
+git clone git@github.com:babanlive/Money_Manager.git && cd Money_Manager
+```
 
 3. Установка проекта:
 
@@ -46,7 +48,9 @@ poetry run flask run --debug
 ## Использование
 
 После запуска проекта, вы можете открыть веб-страницу по адресу:\
-[http://localhost:5000/](http://localhost:5000/)
+```shell
+http://localhost:5000/
+```
 
 ## Регистрация и вход в систему
 - Для входа в систему вы можете зарегистрироваться - нажмите кнопку "Регистрация" и заполните форму.
