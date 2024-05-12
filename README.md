@@ -15,7 +15,9 @@ LP_PFM - это веб-приложение, которое предназнач
 - HTML/CSS
 - Bootstrap
 
-## Установка Poetry
+## Установка и запуск проекта
+
+1. Установка Poetry
 
 Если вы используете Windows, выполните следующую команду в PowerShell:
 ```power shell
@@ -25,13 +27,11 @@ LP_PFM - это веб-приложение, которое предназнач
 Other os
 [Instruction](https://python-poetry.org/docs/#installation)
 
-## Установка и запуск проекта
-
-1. Клонируйте репозиторий и перейдите в папку проекта:
+2. Клонируйте репозиторий и перейдите в папку проекта:
 
 `git clone git@github.com:babanlive/Money_Manager.git && cd Money_Manager`
 
-2. Установка проекта:
+3. Установка проекта:
 
 ```shell
 poetry install
