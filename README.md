@@ -21,7 +21,7 @@ LP_PFM - это веб-приложение, которое предназнач
 
 Если вы используете Windows, выполните следующую команду в PowerShell:
 ```power shell
-    (Invoke-WebRequest -Uri https://install.python-poetry.org -UseBasicParsing).Content | py -
+(Invoke-WebRequest -Uri https://install.python-poetry.org -UseBasicParsing).Content | py -
 ```
 
 Other os

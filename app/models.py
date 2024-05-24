@@ -46,6 +46,7 @@ class Account(db.Model):
     name: Mapped[str]
     currency: Mapped[str]
     symbol: Mapped[str]
+    _balance = 0
 
     @property
     def balance(self):
